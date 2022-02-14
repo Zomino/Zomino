@@ -4,22 +4,15 @@ I am a self-motivated developer with a love of learning and clean code.
 
 I enjoy thinking about ways to improve application structure and code readability, and am constantly striving to learn new technologies as well as deepen my understanding of the basics.
 
-My favorite technologies
-- ![](https://camo.githubusercontent.com/aa8b3e6b6fc55ea158e132e1c33ba6aa7fe49706a4e4bd64701af1cf89f514b5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f747970657363726970742f747970657363726970742d6f726967696e616c2e737667)TypeScript
+## My favorite technologies
+- TypeScript
+- React
+- Express
+- Socket.IO
+- Redux
+- MongoDB
+- Figma
 
-
-
-<!--
-**Zomino/Zomino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- [LinkedIn](https://www.linkedin.com/in/zouminowa)
+- 
