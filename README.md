@@ -15,4 +15,3 @@ I enjoy thinking about ways to improve application structure and code readabilit
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/zouminowa)
-- 
