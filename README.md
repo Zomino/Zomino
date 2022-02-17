@@ -1,4 +1,4 @@
-### Hi, I'm Zou :wave:
+<img style="width:100%;" src="banner.png" alt="banner">
 
 I am a self-motivated developer with a love of learning and clean code. 
 
