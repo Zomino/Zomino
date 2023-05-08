@@ -9,7 +9,7 @@ I enjoy thinking about ways to improve application structure and code readabilit
 - <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> MongoDB
 - <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" /> Express
 - <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> React
-- <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/node.svg" /> Node
+- <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/nodejs-original.svg" /> Node
 
 ## Links
 - <img width="16px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> [LinkedIn](https://www.linkedin.com/in/zouminowa)
